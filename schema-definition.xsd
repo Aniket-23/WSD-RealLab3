@@ -1,0 +1,22 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="candidate_registration">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="candidate" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:int" name="CandidateID"/>
+              <xs:element type="xs:string" name="CandidateName"/>
+              <xs:element type="xs:byte" name="Age"/>
+              <xs:element type="xs:string" name="Aadhar"/>
+              <xs:element type="xs:byte" name="N"/>
+              <xs:element type="xs:long" name="Phno"/>
+              <xs:element type="xs:string" name="Address"/>
+              <xs:element type="xs:int" name="Votes"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

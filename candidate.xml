@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="candidate.xsl"?>
+<candidate_registration>
+    <candidate>
+        <CandidateID>2247211</CandidateID>
+        <CandidateName>Aniket Singh</CandidateName>
+        <Age>22</Age>
+        <Aadhar>4444 2222 8888</Aadhar>
+        <N>1</N>
+        <Phno>6204081417</Phno>
+        <Address>S.G.Palya</Address>
+        <Votes>240000</Votes>
+    </candidate>
+    <candidate>
+        <CandidateID>2247220</CandidateID>
+        <CandidateName>Karthik Pohane</CandidateName>
+        <Age>19</Age>
+        <Aadhar>1111 2222 33333</Aadhar>
+        <N>1</N>
+        <Phno>7558790280</Phno>
+        <Address>Wardha</Address>
+        <Votes>23000</Votes>
+    </candidate>
+    <candidate>
+        <CandidateID>2247203</CandidateID>
+        <CandidateName>Adithyo Gope</CandidateName>
+        <Age>33</Age>
+        <Aadhar>1111 3333 5555</Aadhar>
+        <N>1</N>
+        <Phno>9903602942</Phno>
+        <Address>Salt Lake</Address>
+        <Votes>11000</Votes>
+    </candidate>
+    <candidate>
+        <CandidateID>2247212</CandidateID>
+        <CandidateName>Arithra Sarkar</CandidateName>
+        <Age>18</Age>
+        <Aadhar>4444 8888 4444</Aadhar>
+        <N>1</N>
+        <Phno>8777282214</Phno>
+        <Address>WhiteField</Address>
+        <Votes>22000</Votes>
+    </candidate>
+</candidate_registration>

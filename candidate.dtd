@@ -1,0 +1,12 @@
+<!DOCTYPE candidate
+[
+<!ELEMENT candidate (CandidateID,CandidateName,Age,Aadhar,N,Phno,Address,Votes)>
+<!ELEMENT CandidateID (#PCDATA)>
+<!ELEMENT CandidateName (#PCDATA)>
+<!ELEMENT Age (#PCDATA)>
+<!ELEMENT Aadhar (#PCDATA)>
+<!ELEMENT N (#PCDATA)>
+<!ELEMENT Phno (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT Votes (#PCDATA)>
+]>
